@@ -1,3 +1,5 @@
 node_modules
 target
 .envrc
+.idea
+.DS_Store
